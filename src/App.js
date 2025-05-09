@@ -171,7 +171,7 @@ const Portfolio = () => {
               <motion.a
                 whileHover={{ scale: 1.2, rotate: 360 }}
                 className="bg-gray-800 p-3 rounded-full hover:bg-gray-700"
-                href="https://www.linkedin.com/in/emmeran-malkiel-lima-2545832b3/"
+                href="https://www.linkedin.com/in/emmeran-malkiel-lima-0b8665289"
                 target="_blank"
                 rel="noopener noreferrer"
               >
